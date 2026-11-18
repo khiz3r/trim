@@ -1,0 +1,10 @@
+# Build output
+/trim
+/trim_small
+*.o
+*.out
+
+# Editor / OS files
+.idea/
+.vscode/
+.DS_Store
